@@ -1,6 +1,6 @@
 # Simple Calculator
 
-<p align="center"><img src="Output kalkulator.png" width="600px" alt="Output"></a></p>
+<p align="center"><img src="Output kalkulator.png" width="400px" alt="Output"></a></p>
 
 ## Tech
 
